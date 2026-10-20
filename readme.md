@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lasha Efremidze</h1>
+<h1 align="center">Hi 👋, I'm Lasha Epremidze</h1>
 <h3 align="center">Software Engineer from Georgia</h3>
 
 - 👨‍💻 All of my projects are available at [Lasha-Tech](https://github.com/Lasha-Tech)
